@@ -1,4 +1,4 @@
-# ![Laravel Tasklist App](logo.png)
+# ![Laravel Tasklist App]
 
 # Getting started
 
